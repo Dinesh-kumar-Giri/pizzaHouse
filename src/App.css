@@ -78,7 +78,7 @@ body{
   display: flex;
   justify-content: flex-end;
 }
-.navbar__ul li a {
+.navbar__ul li .alink {
   text-decoration: none;
   color: #fff;
   padding: 0 15px;
